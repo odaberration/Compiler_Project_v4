@@ -1,7 +1,5 @@
 /*	Nicholas Wingfield 
-	CMSC 430 Compiler Theory and Design
-   Project 1 
-   UMGC CITE
+   Compiler Theory and Design
    8/25/2025 */
 
 // This file contains the bodies of the functions that produces the 
