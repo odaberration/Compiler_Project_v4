@@ -20,5 +20,5 @@ switch/case statements, and conditional branches.
 Extended the grammar to support new language features (real types, hexadecimal literals, exponentiation/negation/remainder operators), 
 integrating each into the type-checking pipeline.
 
-Validated correctness against a 19-case regression test suite covering type mismatches, narrowing errors, and list/subscript violations, 
-achieving accurate line-level error reporting in the compilation listing.
+Validated correctness against a 19-case regression testing covering type mismatches, narrowing errors, and violations, 
+achieving line-level error reporting in the compilation listing.
