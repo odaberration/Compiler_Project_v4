@@ -1,7 +1,7 @@
 // Nicholas Wingfield
-// CMSC 430 6383 Compiler Theory and Design
+// Compiler Theory and Design
 // 10/7/2025
-// Project 4
+//
 
 // This file contains the template symbol table
 
