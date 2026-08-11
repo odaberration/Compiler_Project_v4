@@ -1,7 +1,7 @@
 // Nicholas Wingfield
-// CMSC 430 6383 Compiler Theory and Design
+// Compiler Theory and Design
 // 10/7/2025
-// Project 4
+//
 
 // This file contains the bodies of the type checking functions. Includes updated assignment check for narrowing, 
 // arithmetic for variances in numeric type, relational for char-char or num-num types, not and logical checks for boolean integers (0, 1),
