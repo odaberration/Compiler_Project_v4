@@ -1,7 +1,6 @@
 /* Nicholas Wingfield
- CMSC 430 6383 Compiler Theory and Design
+ Compiler Theory and Design
  10/7/2025
- Project 4
  */
 /* Updated productions to contain and pass typed data. Implemented scalar and list search/insert functions. Implemented type checkers into respective productions.*/
 
